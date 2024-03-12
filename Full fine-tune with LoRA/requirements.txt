@@ -1,0 +1,12 @@
+sentencepiece  
+datasets 
+evaluate 
+rouge_score 
+bert_score 
+lmppl 
+peft
+accelerate 
+einops 
+bitsandbytes 
+plotly
+protobuf
